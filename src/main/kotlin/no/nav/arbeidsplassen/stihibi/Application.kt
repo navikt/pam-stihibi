@@ -11,4 +11,5 @@ object Application {
                 .mainClass(Application.javaClass)
                 .start()
     }
+    
 }
